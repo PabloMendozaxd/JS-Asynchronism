@@ -1,0 +1,24 @@
+{
+  "name": "js-asynchronism",
+  "version": "1.0.0",
+  "description": "work using asynchronism with JS",
+  "main": "index.js",
+  "scripts": {
+    "callback":"node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloMendozaxd/JS-Asynchronism.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "José Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PabloMendozaxd/JS-Asynchronism/issues"
+  },
+  "homepage": "https://github.com/PabloMendozaxd/JS-Asynchronism#readme"
+}
