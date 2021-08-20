@@ -14,4 +14,6 @@
     A thread is basically a single process that a program can use to complete tasks. Each thread can only do a single task at once. Each task will be run sequentially; a task has to complete before the next one can be started.
     
     **🛑JavaScript is single-threaded🛑**
+
+    See deployment
     
